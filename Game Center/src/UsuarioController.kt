@@ -26,7 +26,7 @@ fun registodeUsuario(){
     }
     fun iniciodesecion (){
         println("INGRESE SU NOMBRE DE USUARIO")
-        val nombrecompleto = readln()
+        val nombre_usuario = readln()
         println("INGRESE SU PASSWORD")
         val  password = readln()
     }
